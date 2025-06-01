@@ -1,5 +1,3 @@
-# testrepo
-
-## Editing the file
-
-Its a markdown file in this repository.
+# TestRepo
+Test Repository
+This is the first markdown file.
